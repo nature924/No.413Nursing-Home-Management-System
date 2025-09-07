@@ -1,4 +1,4 @@
-基于Springboot的养老院管理系统（程序+论文）
+基于Springboot的养老院管理系统
 =
 
 ### 完整代码获取地址：从戎源码网 ([https://armycodes.com/](https://armycodes.com/))
